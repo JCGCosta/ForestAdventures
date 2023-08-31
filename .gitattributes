@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.yacc linguist-vendored
+*.yyp linguist-vendored
+*.yy linguist-vendored
